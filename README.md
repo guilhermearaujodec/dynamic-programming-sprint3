@@ -154,7 +154,7 @@ Digite o nome do paciente: Maria
 
 1. Clone este repositório:  
    ```bash
-   git clone https://github.com/seu-usuario/noa-sistema.git
+   git clone https://github.com/guilhermearaujodec/dynamic-programming-sprint3.git
    cd noa-sistema
    ```
 
@@ -174,3 +174,16 @@ Este projeto demonstra na prática como conceitos de **estruturas de dados e alg
 * ✅ Algoritmos de busca (Sequencial e Binária)
 * ✅ Algoritmos de ordenação (QuickSort e Merge Sort)
 * ✅ Interface clara e funcional
+
+<h2 id="autores">Autores</h2>
+
+<div align="center">
+
+<ul>
+  <li>Augusto Mendonça - RM: 558371</li>
+  <li>Gabriel Vasquez - RM: 557056</li>
+  <li>Guilherme Araujo - RM: 558926</li>
+  <li>Gustavo Oliveira - RM: 559163</li>
+</ul><br>
+
+</div>
