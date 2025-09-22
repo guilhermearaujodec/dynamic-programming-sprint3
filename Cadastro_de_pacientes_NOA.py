@@ -1,3 +1,5 @@
+# RELATÓRIO DE NOTAÇÃO O GRANDE DAS FUNÇÕES ESTÁ PRESENTE NO README E NO PDF QUE ACOMPANHAM O CÓDIGO
+
 from collections import deque
 import csv
 import os
